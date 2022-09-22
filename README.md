@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+- 🔭 I’m currently working on ...
+미림과학고
 
 
 <!--
